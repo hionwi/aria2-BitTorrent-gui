@@ -1,6 +1,4 @@
-# A pythonproject Flet app
-
-An example of a minimal Flet app.
+# aria2 BitTorrent gui Flet app
 
 To run the app:
 
